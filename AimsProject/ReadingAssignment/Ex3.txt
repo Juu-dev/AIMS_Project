@@ -1,0 +1,2 @@
+- truyền giá trị đến parameter, khi thay đổi giá trị parameter thì giá trị biến gốc không thay đối
+- truyền tham chiếu đến parameter, khi thay đổi giá trị của parameter thì giá trị biến gốc cũng thay đổi theo
